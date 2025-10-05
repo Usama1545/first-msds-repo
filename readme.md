@@ -20,5 +20,3 @@ This assignment focuses on hnad on experience on git
 ## adding some conflicts here and there
 
 ## lets try and resolve them both
-
-# now we have added some wrong data in bottom obvisouly we need to fix that
