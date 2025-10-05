@@ -17,4 +17,6 @@ This assignment focuses on hnad on experience on git
 
 ## 📂 Repository Structure
 
+## adding some conflicts here and there
+
 ## lets try and resolve them both
