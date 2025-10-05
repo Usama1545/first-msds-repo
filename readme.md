@@ -16,3 +16,5 @@ This assignment focuses on hnad on experience on git
 - **Jupyter Notebook**
 
 ## 📂 Repository Structure
+
+## lets try and resolve them both
